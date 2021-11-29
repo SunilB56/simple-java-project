@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>works.buddy.samples</groupId>
     <artifactId>works-with-heroku</artifactId>
-    <version>1.0</version>
+    <version>1.6</version>
     <packaging>war</packaging>
     <dependencies>
         <dependency>
@@ -22,7 +22,7 @@
         <dependency>
             <groupId>org.mockito</groupId>
             <artifactId>mockito-all</artifactId>
-            <version>1.10.19</version>
+            <version>1.6</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
